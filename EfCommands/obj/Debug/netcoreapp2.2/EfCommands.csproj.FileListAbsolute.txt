@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\AspAppShop\EfCommands\bin\Debug\netcoreapp2.2\EfCommands.deps.json
+C:\Users\HP\source\repos\AspAppShop\EfCommands\bin\Debug\netcoreapp2.2\EfCommands.dll
+C:\Users\HP\source\repos\AspAppShop\EfCommands\bin\Debug\netcoreapp2.2\EfCommands.pdb
+C:\Users\HP\source\repos\AspAppShop\EfCommands\bin\Debug\netcoreapp2.2\Application.dll
+C:\Users\HP\source\repos\AspAppShop\EfCommands\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Users\HP\source\repos\AspAppShop\EfCommands\bin\Debug\netcoreapp2.2\EfDataAccess.dll
+C:\Users\HP\source\repos\AspAppShop\EfCommands\bin\Debug\netcoreapp2.2\Application.pdb
+C:\Users\HP\source\repos\AspAppShop\EfCommands\bin\Debug\netcoreapp2.2\EfDataAccess.pdb
+C:\Users\HP\source\repos\AspAppShop\EfCommands\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\HP\source\repos\AspAppShop\EfCommands\obj\Debug\netcoreapp2.2\EfCommands.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\AspAppShop\EfCommands\obj\Debug\netcoreapp2.2\EfCommands.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\AspAppShop\EfCommands\obj\Debug\netcoreapp2.2\EfCommands.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\AspAppShop\EfCommands\obj\Debug\netcoreapp2.2\EfCommands.AssemblyInfo.cs
+C:\Users\HP\source\repos\AspAppShop\EfCommands\obj\Debug\netcoreapp2.2\EfCommands.csproj.CopyComplete
+C:\Users\HP\source\repos\AspAppShop\EfCommands\obj\Debug\netcoreapp2.2\EfCommands.dll
+C:\Users\HP\source\repos\AspAppShop\EfCommands\obj\Debug\netcoreapp2.2\EfCommands.pdb

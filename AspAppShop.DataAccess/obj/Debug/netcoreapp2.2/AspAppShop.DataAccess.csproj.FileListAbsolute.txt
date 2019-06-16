@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\AspAppShop\AspAppShop.DataAccess\bin\Debug\netcoreapp2.2\AspAppShop.DataAccess.deps.json
+C:\Users\HP\source\repos\AspAppShop\AspAppShop.DataAccess\bin\Debug\netcoreapp2.2\AspAppShop.DataAccess.dll
+C:\Users\HP\source\repos\AspAppShop\AspAppShop.DataAccess\obj\Debug\netcoreapp2.2\AspAppShop.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\AspAppShop\AspAppShop.DataAccess\obj\Debug\netcoreapp2.2\AspAppShop.DataAccess.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\AspAppShop\AspAppShop.DataAccess\obj\Debug\netcoreapp2.2\AspAppShop.DataAccess.AssemblyInfo.cs
+C:\Users\HP\source\repos\AspAppShop\AspAppShop.DataAccess\bin\Debug\netcoreapp2.2\AspAppShop.DataAccess.runtimeconfig.json
+C:\Users\HP\source\repos\AspAppShop\AspAppShop.DataAccess\bin\Debug\netcoreapp2.2\AspAppShop.DataAccess.runtimeconfig.dev.json
+C:\Users\HP\source\repos\AspAppShop\AspAppShop.DataAccess\bin\Debug\netcoreapp2.2\AspAppShop.DataAccess.pdb
+C:\Users\HP\source\repos\AspAppShop\AspAppShop.DataAccess\obj\Debug\netcoreapp2.2\AspAppShop.DataAccess.dll
+C:\Users\HP\source\repos\AspAppShop\AspAppShop.DataAccess\obj\Debug\netcoreapp2.2\AspAppShop.DataAccess.pdb

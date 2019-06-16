@@ -1,0 +1,17 @@
+C:\Users\HP\source\repos\AspAppShop\AspAppShop.Api\bin\Debug\netcoreapp2.2\AspAppShop.Api.deps.json
+C:\Users\HP\source\repos\AspAppShop\AspAppShop.Api\bin\Debug\netcoreapp2.2\AspAppShop.Api.runtimeconfig.json
+C:\Users\HP\source\repos\AspAppShop\AspAppShop.Api\bin\Debug\netcoreapp2.2\AspAppShop.Api.runtimeconfig.dev.json
+C:\Users\HP\source\repos\AspAppShop\AspAppShop.Api\bin\Debug\netcoreapp2.2\AspAppShop.Api.dll
+C:\Users\HP\source\repos\AspAppShop\AspAppShop.Api\bin\Debug\netcoreapp2.2\AspAppShop.Api.pdb
+C:\Users\HP\source\repos\AspAppShop\AspAppShop.Api\obj\Debug\netcoreapp2.2\AspAppShop.Api.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\AspAppShop\AspAppShop.Api\obj\Debug\netcoreapp2.2\AspAppShop.Api.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\AspAppShop\AspAppShop.Api\obj\Debug\netcoreapp2.2\AspAppShop.Api.RazorAssemblyInfo.cache
+C:\Users\HP\source\repos\AspAppShop\AspAppShop.Api\obj\Debug\netcoreapp2.2\AspAppShop.Api.RazorAssemblyInfo.cs
+C:\Users\HP\source\repos\AspAppShop\AspAppShop.Api\obj\Debug\netcoreapp2.2\AspAppShop.Api.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\AspAppShop\AspAppShop.Api\obj\Debug\netcoreapp2.2\AspAppShop.Api.AssemblyInfo.cs
+C:\Users\HP\source\repos\AspAppShop\AspAppShop.Api\obj\Debug\netcoreapp2.2\AspAppShop.Api.RazorTargetAssemblyInfo.cache
+C:\Users\HP\source\repos\AspAppShop\AspAppShop.Api\obj\Debug\netcoreapp2.2\AspAppShop.Api.dll
+C:\Users\HP\source\repos\AspAppShop\AspAppShop.Api\obj\Debug\netcoreapp2.2\AspAppShop.Api.pdb
+C:\Users\HP\source\repos\AspAppShop\AspAppShop.Api\bin\Debug\netcoreapp2.2\AspAppShop.DataAccess.dll
+C:\Users\HP\source\repos\AspAppShop\AspAppShop.Api\bin\Debug\netcoreapp2.2\AspAppShop.DataAccess.pdb
+C:\Users\HP\source\repos\AspAppShop\AspAppShop.Api\obj\Debug\netcoreapp2.2\AspAppShop.Api.csproj.CopyComplete
